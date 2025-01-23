@@ -1,5 +1,8 @@
 # SajedaAlquraan
 
+#OBJECTIVE:
+I'm a Computer Science graduate from Yarmouk University with extensive experience in full-stack web development. I have contributed to diverse projects, including sustainable tourism platforms, hotel reservation systems, and recipe recommendation websites. Proficient in ASP.NET Core MVC, Web API, Angular, and SQL using Oracle, I specialize in building scalable, dynamic applications. My expertise spans across responsive UI design, RESTful service implementation.
+
 ## 🛠 Skills
 
 ### Frameworks & Technologies:
